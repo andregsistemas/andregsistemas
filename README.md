@@ -1,7 +1,7 @@
 ### Olá! André aqui!
 
 - 🏢 Hoje estou trabalhando como Analista de Suporte
-- 🏫 Estudando Java
+- 🏫 Estudando Java, SQL e PowerBI
 - 🤔 Estou procurando ajuda no meu desenvolvimento como programador
 - 😄 Pronouns: ele/dele
 
