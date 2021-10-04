@@ -1,7 +1,7 @@
 ### Olá! André aqui!
 
 - 🏢 Hoje estou trabalhando como Analista de Suporte
-- 🏫 Estudando Java, SQL e PowerBI
+- 🏫 Estudando Java, HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC
 - 🤔 Estou procurando ajuda no meu desenvolvimento como programador
 - 😄 Pronouns: ele/dele
 
@@ -16,6 +16,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="André Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="André HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="André-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="André-POSTGRE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="André-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
